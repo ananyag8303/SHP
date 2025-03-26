@@ -1,10 +1,10 @@
-# Searching for high-redshift galaxies with JWST JADES
+# Searching for high-redshift galaxies (z > 8.5) with JWST JADES
 ------
-## Seniour Honours Project (2024/25)
-------
+## Seniour Honours Project (2024/25) - University of Edinburgh
+
 ### Author: Ananya Ganapathy
 ### Supervisor: Dr. Derek McLeod
-------
+
 
 This repository hosts the table of final high redshift candidates found within the JWST JADES dataset. Below are the details on what each column of the repository contains:
 
