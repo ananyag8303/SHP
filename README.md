@@ -1,4 +1,4 @@
-# Searching for high-redshift galaxies (z > 8.5) with JWST JADES
+# Probing the early universe: The Search for High Redshift Galaxies ($8.5 \leq z \leq 20$) with JWST in the GOODS-North field
 ------
 ## Seniour Honours Project (2024/25) - University of Edinburgh
 
